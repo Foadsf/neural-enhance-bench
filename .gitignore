@@ -1,0 +1,11 @@
+# Build and intermediate artifacts
+build/
+.gradle/
+*.keystore
+*.idsig
+local.properties
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">NeuralEnhance Bench</string>
+    <string name="app_subtitle">FLOSS Tool for Mobile CNN/VLM Image Enhancement &amp; SfM Testing</string>
+
+    <string name="btn_load_image">Load Image</string>
+    <string name="btn_test_pattern">Test Pattern</string>
+    <string name="btn_run_benchmark">Run Enhancement</string>
+    <string name="btn_export">Export Report</string>
+    <string name="btn_save_image">Save Image</string>
+
+    <string name="label_model">Model Architecture:</string>
+    <string name="label_tile_size">Tile Size:</string>
+    <string name="label_overlap">Tile Overlap:</string>
+    <string name="label_sfm_mode">Photogrammetry (SfM) Mode</string>
+    <string name="sfm_mode_desc">High fidelity, keypoint preservation, corner overlay</string>
+
+    <string name="metric_psnr">PSNR</string>
+    <string name="metric_ssim">SSIM</string>
+    <string name="metric_snr">SNR</string>
+    <string name="metric_latency">Latency</string>
+    <string name="metric_throughput">Throughput</string>
+    <string name="metric_memory">Peak RAM</string>
+    <string name="metric_keypoints">SfM Keypoints</string>
+
+    <string name="status_ready">Ready. Load image or generate synthetic pattern.</string>
+    <string name="status_processing">Processing tiles with overlap blending...</string>
+    <string name="status_done">Enhancement complete!</string>
+</resources>
